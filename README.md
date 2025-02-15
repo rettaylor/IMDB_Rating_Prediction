@@ -12,22 +12,22 @@ This project aims to predict IMDb movie ratings using machine learning. By analy
 Source: IMDb Dataset (Kaggle)  https://www.kaggle.com/datasets/raedaddala/imdb-movies-from-1960-to-2023/data
 
 #### Key Features: 
-'Rating': IMDb rating (scale of 1–10). (my target feature)
-'Title': Movie title.
-'Year': Year of release.
-'Duration': Runtime (in minutes).
-'MPA': Motion Picture Association rating (e.g., PG, R).
-'Votes': Total user votes on IMDb.
-'directors': List of directors.
-'writers': List of writers.
-'stars': Main cast members.
-'genres': Movie genres.
-'countries_origin': Countries of production.
-'filming_locations': Primary filming locations.
-'production_companies': Associated production companies.
-'Languages': Languages spoken in the movie.
-'nominations': Total award nominations.
-'oscars': Oscar nominations.
+- 'Rating': IMDb rating (scale of 1–10). (my target feature)
+- 'Title': Movie title.
+- 'Year': Year of release.
+- 'Duration': Runtime (in minutes).
+- 'MPA': Motion Picture Association rating (e.g., PG, R).
+- 'Votes': Total user votes on IMDb.
+- 'directors': List of directors.
+- 'writers': List of writers.
+- 'stars': Main cast members.
+- 'genres': Movie genres.
+- 'countries_origin': Countries of production.
+- 'filming_locations': Primary filming locations.
+- 'production_companies': Associated production companies.
+- 'Languages': Languages spoken in the movie.
+- 'nominations': Total award nominations.
+- 'oscars': Oscar nominations.
 
 ### Project Steps
 1) Data Collection & Processing: Handled missing values and removed outliers.
